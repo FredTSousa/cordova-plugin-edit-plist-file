@@ -43,6 +43,11 @@
                 <string>instagram</string>
             </array>
         </config-file>
+        <config-file target="*-Info.plist" parent="OneSignal_disable_badge_clearing">
+
+           <true/>
+
+        </config-file>
         
         
         
